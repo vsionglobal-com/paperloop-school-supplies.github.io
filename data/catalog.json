@@ -1,0 +1,182 @@
+[
+  {
+    "id": "p01",
+    "name": "PAPERLOOP Everyday Backpack",
+    "category": "Backpacks",
+    "price": 39.99,
+    "old": 49.99,
+    "image": "product-01.jpg",
+    "tag": "Best Seller",
+    "desc": "A roomy everyday backpack with a padded laptop sleeve, front organizer pocket and comfortable shoulder straps."
+  },
+  {
+    "id": "p02",
+    "name": "Five Star Spiral Notebook Set",
+    "category": "Notebooks & Paper",
+    "price": 12.99,
+    "old": 15.99,
+    "image": "product-02.jpg",
+    "tag": "Popular",
+    "desc": "A coordinated set of spiral notebooks for class notes, projects and study sessions."
+  },
+  {
+    "id": "p03",
+    "name": "PAPERLOOP InkJoy Gel Pens 8-Pack",
+    "category": "Writing",
+    "price": 9.99,
+    "old": 11.49,
+    "image": "product-03.jpg",
+    "tag": "New",
+    "desc": "Smooth-writing gel pens in a practical eight-color set for notes, planners and creative work."
+  },
+  {
+    "id": "p04",
+    "name": "Soft-Tone Highlighter Set",
+    "category": "Writing",
+    "price": 11.99,
+    "old": 13.99,
+    "image": "product-04.jpg",
+    "tag": "Top Rated",
+    "desc": "Six easy-to-read pastel highlighters designed for textbooks, planners and study guides."
+  },
+  {
+    "id": "p05",
+    "name": "Scientific Study Calculator",
+    "category": "Calculators",
+    "price": 24.99,
+    "old": 29.99,
+    "image": "product-05.jpg",
+    "tag": "Student Pick",
+    "desc": "A practical scientific calculator for algebra, geometry, statistics and everyday coursework."
+  },
+  {
+    "id": "p06",
+    "name": "Insulated School Bottle 21 oz",
+    "category": "Lunch & Hydration",
+    "price": 29.95,
+    "old": 34.95,
+    "image": "product-06.jpg",
+    "tag": "Popular",
+    "desc": "A reusable insulated bottle sized for backpacks, desks and all-day school routines."
+  },
+  {
+    "id": "p07",
+    "name": "Classic Navy Backpack",
+    "category": "Backpacks",
+    "price": 34.99,
+    "old": 42.99,
+    "image": "product-07.jpg",
+    "tag": "Everyday",
+    "desc": "A streamlined navy backpack with a roomy main compartment and quick-access front pocket."
+  },
+  {
+    "id": "p08",
+    "name": "Mint Study Bottle 21 oz",
+    "category": "Lunch & Hydration",
+    "price": 29.95,
+    "old": 34.95,
+    "image": "product-08.jpg",
+    "tag": "New",
+    "desc": "A lightweight insulated bottle with a secure carry loop and easy-clean lid."
+  },
+  {
+    "id": "p09",
+    "name": "Five Star 5-Subject Notebook",
+    "category": "Notebooks & Paper",
+    "price": 12.99,
+    "old": 14.99,
+    "image": "product-09.jpg",
+    "tag": "Best Seller",
+    "desc": "Five divided subjects in one notebook for keeping classes organized in one place."
+  },
+  {
+    "id": "p10",
+    "name": "Color Gel Pen 8-Pack",
+    "category": "Writing",
+    "price": 9.99,
+    "old": 12.49,
+    "image": "product-10.jpg",
+    "tag": "Creative",
+    "desc": "Bright gel pens for color-coding notes, planners, headings and creative projects."
+  },
+  {
+    "id": "p11",
+    "name": "Washable Marker Set 10-Pack",
+    "category": "Art & Creatives",
+    "price": 6.99,
+    "old": 8.49,
+    "image": "product-11.jpg",
+    "tag": "Kids Favorite",
+    "desc": "Washable markers for posters, classroom projects, coloring and everyday creativity."
+  },
+  {
+    "id": "p12",
+    "name": "Compact Scientific Calculator",
+    "category": "Calculators",
+    "price": 24.99,
+    "old": 27.99,
+    "image": "product-12.jpg",
+    "tag": "Study Essential",
+    "desc": "A compact scientific calculator sized for backpacks and everyday math coursework."
+  },
+  {
+    "id": "p13",
+    "name": "Student Daypack Plus",
+    "category": "Backpacks",
+    "price": 44.99,
+    "old": 54.99,
+    "image": "product-13.jpg",
+    "tag": "New",
+    "desc": "A larger daypack for students carrying notebooks, lunch, tech accessories and personal essentials."
+  },
+  {
+    "id": "p14",
+    "name": "Insulated Bottle \u2014 24 oz",
+    "category": "Lunch & Hydration",
+    "price": 32.95,
+    "old": 37.95,
+    "image": "product-14.jpg",
+    "tag": "Upgrade",
+    "desc": "A larger insulated bottle for longer school days, campus commutes and activities."
+  },
+  {
+    "id": "p15",
+    "name": "Desktop Pencil Cup Set",
+    "category": "Organization",
+    "price": 13.99,
+    "old": 16.99,
+    "image": "product-15.jpg",
+    "tag": "Desk Pick",
+    "desc": "A colorful desk organizer for pencils, markers, scissors and everyday study tools."
+  },
+  {
+    "id": "p16",
+    "name": "Color-Coded Notebook Bundle",
+    "category": "Notebooks & Paper",
+    "price": 18.99,
+    "old": 22.99,
+    "image": "product-16.jpg",
+    "tag": "Bundle",
+    "desc": "A coordinated notebook bundle that makes subjects easier to separate and organize."
+  },
+  {
+    "id": "p17",
+    "name": "Zip Utility Pencil Case",
+    "category": "Organization",
+    "price": 14.99,
+    "old": 17.99,
+    "image": "product-17.jpg",
+    "tag": "Everyday",
+    "desc": "A roomy zip case for pens, pencils, highlighters, erasers and small school tools."
+  },
+  {
+    "id": "p18",
+    "name": "Geometry Starter Set",
+    "category": "Math & Science",
+    "price": 8.99,
+    "old": 10.99,
+    "image": "product-05.jpg",
+    "tag": "Study Essential",
+    "desc": "A practical geometry set with measuring tools for classwork and homework."
+  }
+]

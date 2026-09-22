@@ -1,10 +1,18 @@
 # PAPERLOOP Image Sources
 
-All visual assets used by the storefront are packaged locally in `assets/images/`.
+The category imagery in this version was created as original clean product-study imagery for the PAPERLOOP demo and cropped into deterministic category assets. Product imagery already included in the project remains locally packaged.
 
-- `brand/paperloop-logo.jpg` — PAPERLOOP brand logo supplied/generated for this project.
-- `hero.jpg` — locally packaged hero visual created for the PAPERLOOP concept.
-- `products/` — locally packaged product visuals assigned to the catalog.
-- `category/` — locally packaged category visuals.
+## Category mapping
 
-The website does not reference remote image URLs.
+- cat-01: Backpacks
+- cat-02: Lunch & Hydration
+- cat-03: Notebooks & Paper
+- cat-04: Writing
+- cat-05: Art & Creatives
+- cat-06: Organization
+- cat-07: Math & Science / Calculators
+- cat-08: Classroom Essentials
+- cat-09: Deals / craft essentials
+- cat-10: School essentials bundle
+
+No category image is used as a random background or cropped with `object-fit: cover`; the full intended product composition is preserved inside the card.
